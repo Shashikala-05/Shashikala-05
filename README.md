@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://shashikala-dev.vercel.app/" target="_blank">
+  <a href="https://shashikala-g.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
